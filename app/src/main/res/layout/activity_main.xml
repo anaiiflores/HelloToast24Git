@@ -37,7 +37,7 @@
         android:layout_weight="1"
         android:background="@android:color/holo_orange_light"
         android:gravity="center"
-        android:text="12"
+        android:text="0"
         android:textAlignment="center"
         android:textSize="120px"
         android:textStyle="bold"
